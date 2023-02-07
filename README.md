@@ -13,4 +13,6 @@ Results: my Octopus v1.1 and Pi run under 30C with the direct cooling fans. My P
 For the Pi Fan
 Pi Fan mountv2.stl
 qty 1 4010 24VDC fan
-qty 4 M3 mounting screws/nuts
+qty 4 M3 fan mount screws
+qty 4 M3 brass inserts
+qty 4 M3 corner mount screws/nuts
