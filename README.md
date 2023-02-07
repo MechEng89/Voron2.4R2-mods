@@ -9,3 +9,8 @@ qty 4 M3x45 cap screws,
 qty 4 M3 nuts
 ![mcu_pi_temps](https://user-images.githubusercontent.com/36819342/217131446-3949c510-fc14-484a-9aa0-c310493d15d4.jpg)
 Results: my Octopus v1.1 and Pi run under 30C with the direct cooling fans. My Pi was running arounf 50C without direct cooling
+
+For the Pi Fan
+Pi Fan mountv2.stl
+qty 1 4010 24VDC fan
+qty 4 M3 mounting screws/nuts
